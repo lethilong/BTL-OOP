@@ -1,0 +1,79 @@
+26
+
+up
+up1 200000000 up2 200000000 
+
+down
+down1 200000000 down2 200000000 
+
+left
+left1 200000000 left2 200000000 
+
+right
+right1 200000000 right2 200000000 
+
+stopup
+up3 200000000
+
+stopdown
+down3 200000000
+
+stopleft
+left3 200000000
+
+stopright
+right3 200000000
+
+bulletright0
+bulletright0 30000000
+
+bulletleft0
+bulletleft0 30000000
+
+bulletup0
+bulletup0 30000000
+
+bulletdown0
+bulletdown0 30000000
+
+monsterright1
+monsterright1 150000000
+
+monsterleft1
+monsterleft1 150000000
+
+monsterup1
+monsterup1 150000000
+
+monsterdown1
+monsterdown1 150000000
+
+fire
+fire2 100000000 fire3 100000000
+
+monsterleft2
+monsterleft2_1 200000000 monsterleft2_2 200000000
+
+monsterright2
+monsterright2_1 200000000 monsterright2_2 200000000
+
+bulletboss
+bulletboss1 100000000 bulletboss2 100000000
+
+bossleft
+bossleft1 200000000 bossleft2 200000000 bossleft3 200000000 bossleft2 200000000
+
+bossright
+bossright1 200000000 bossright2 200000000 bossright3 200000000 bossright2 200000000
+
+monsterup4
+monsterup41 200000000 monsterup42 200000000 monsterup43 200000000
+
+monsterright4
+monsterright41 200000000 monsterright42 200000000 monsterright43 200000000
+
+monsterleft4
+monsterleft41 200000000 monsterleft42 200000000 monsterleft43 200000000
+
+monsterdown4
+monsterdown41 200000000 monsterdown42 200000000 monsterdown43 200000000

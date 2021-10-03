@@ -1,0 +1,5 @@
+3
+
+player data/player.wav
+monster1 data/monster1.wav
+boss data/boss.wav

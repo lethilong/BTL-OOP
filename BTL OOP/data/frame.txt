@@ -1,0 +1,410 @@
+
+58
+
+down1
+image data/character.png
+x 5
+y 10
+w 38
+h 64
+
+down2
+image data/character.png
+x 102
+y 10
+w 38
+h 64
+
+down3
+image data/character.png
+x 53
+y 10
+w 38
+h 64
+
+left1
+image data/character.png
+x 5
+y 83
+w 38
+h 64
+
+left2
+image data/character.png
+x 102
+y 83
+w 38
+h 64
+
+left3
+image data/character.png
+x 53
+y 83
+w 38
+h 64
+
+right1
+image data/character.png
+x 5
+y 155
+w 38
+h 64
+
+right2
+image data/character.png
+x 102
+y 155
+w 38
+h 64
+
+right3
+image data/character.png
+x 53
+y 155
+w 38
+h 64
+
+up1
+image data/character.png
+x 5
+y 227
+w 38
+h 64
+
+up2
+image data/character.png
+x 102
+y 227
+w 38
+h 64
+
+up3
+image data/character.png
+x 53
+y 227
+w 38
+h 64
+
+
+bulletright0
+image data/bullet.png
+x 197
+y 277
+w 61
+h 23
+
+bulletleft0
+image data/bullet.png
+x 192
+y 20
+w 61
+h 22
+
+bulletup0
+image data/bullet.png
+x 214
+y 137
+w 22
+h 43
+
+bulletdown0
+image data/bullet.png
+x 214
+y 398
+w 23
+h 39
+
+monsterright1
+image data/monster1.png
+x 238
+y 249
+w 122
+h 105
+
+monsterleft1
+image data/monster1.png
+x 238
+y 130
+w 122
+h 105
+
+monsterup1
+image data/monster1.png
+x 238
+y 360
+w 122
+h 120
+
+monsterdown1
+image data/monster1.png
+x 238
+y 3
+w 120
+h 118
+
+map1
+image data/map1.png
+x 0
+y 0
+w 960
+h 640
+
+map2
+image data/map2.png
+x 0
+y 0
+w 960
+h 640
+
+map02
+image data/map02.png
+x 0
+y 0
+w 960
+h 640
+
+map3
+image data/map3.png
+x 0
+y 0
+w 960
+h 640
+
+fire1
+image data/Fire.png
+x 159
+y 51
+w 55
+h 52
+
+fire2
+image data/Fire.png
+x 465
+y 291
+w 117
+h 105
+
+fire3
+image data/Fire.png
+x 392
+y 52
+w 123
+h 112
+
+monsterleft2_1
+image data/monster2.png
+x 7
+y 103
+w 88
+h 96
+
+monsterleft2_2
+image data/monster2.png
+x 194
+y 97
+w 94
+h 100
+
+monsterright2_1
+image data/monster2.png
+x 3
+y 203
+w 92
+h 88
+
+monsterright2_2
+image data/monster2.png
+x 191
+y 196
+w 93
+h 95
+
+monsterleft3
+image data/monster3.png
+x 288
+y 239
+w 49
+h 50
+
+monsterright3
+image data/monster3.png
+x 283
+y 287
+w 53
+h 48
+
+bulletboss1
+image data/bulletmonster2.png
+x 744
+y 315
+w 29
+h 29
+
+bulletboss2
+image data/bulletmonster2.png
+x 993
+y 440
+w 28
+h 30
+
+bossleft1
+image data/boss.png
+x 3
+y 94
+w 140
+h 96
+
+bossleft2
+image data/boss.png
+x 144
+y 102
+w 147
+h 87
+
+bossleft3
+image data/boss.png
+x 290
+y 113
+w 142
+h 87
+
+bossright1
+image data/boss.png
+x 2
+y 191
+w 140
+h 94
+
+bossright2
+image data/boss.png
+x 140
+y 191
+w 144
+h 92
+
+bossright3
+image data/boss.png
+x 284
+y 209
+w 145
+h 82
+
+itemblood
+image data/item.png
+x 6
+y 41
+w 29
+h 26
+
+itemdamage
+image data/item.png
+x 41
+y 108
+w 27
+h 28
+
+itemdowndamage
+image data/item.png
+x 7
+y 106
+w 27
+h 31
+
+
+monsterdown41
+image data/monster4.png
+x 6
+y 2
+w 85
+h 66
+
+monsterdown42
+image data/monster4.png
+x 101
+y 2
+w 96
+h 64
+
+monsterdown43
+image data/monster4.png
+x 201
+y 0
+w 96
+h 65
+
+monsterleft41
+image data/monster4.png
+x 25
+y 73
+w 67
+h 63
+
+monsterleft42
+image data/monster4.png
+x 125
+y 71
+w 70
+h 64
+
+monsterleft43
+image data/monster4.png
+x 225
+y 70
+w 75
+h 64
+
+monsterright41
+image data/monster4.png
+x 0
+y 139
+w 74
+h 65
+
+monsterright42
+image data/monster4.png
+x 106
+y 142
+w 68
+h 65
+
+monsterright43
+image data/monster4.png
+x 207
+y 144
+w 68
+h 63
+
+monsterup41
+image data/monster4.png
+x 7
+y 211
+w 85
+h 69
+
+monsterup42
+image data/monster4.png
+x 101
+y 213
+w 95
+h 67
+
+monsterup43
+image data/monster4.png
+x 200
+y 210
+w 98
+h 70
+
+gamewin
+image data/textgame.png
+x 80
+y 60
+w 440
+h 60
+
+help
+image data/helpmenu.png
+x 0
+y 0
+w 960
+h 610
